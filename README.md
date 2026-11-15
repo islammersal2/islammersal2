@@ -1,34 +1,47 @@
-<div align="center"> <h1>ISLAM MERSAL</h1>
+<div align="center">
 
 
-<br/><br/>
-
-
-
+<br/>
 
 
 
 
 
-<br/><br/>
+</div> <br/>
+>_ whoami
 
-<a href="mailto:Islam.mersal.88@gmail.com"></a>
-<a href="https://wa.me/966566186722"></a>
 
-</div>
-⚡ About Me
-I build trading tools and automation for crypto and gold markets: MT5 indicators and Expert Advisors in MQL5, and TradingView indicators in Pine Script.
+islam@riyadh:~$ whoami
+Islam Mersal · Fleet & Operations Supervisor · Trading Tools Builder
 
-By day I'm a Fleet & Operations Supervisor with 12+ years in logistics, managing delivery fleets, riders, procurement and collections. That background shapes how I build: measure everything, automate the repetitive, and manage risk.
+islam@riyadh:~$ cat about.txt
+12+ years managing delivery fleets, riders, procurement and collections.
+I build indicators, dashboards and automation that make results measurable.
 
-<div dir="rtl" align="right">
-أبني أدوات تداول وأتمتة لأسواق الكريبتو والذهب: مؤشرات وروبوتات MT5 بلغة MQL5، ومؤشرات TradingView بلغة Pine Script.
-وأعمل مشرف عمليات وتشغيل لوجستي بخبرة تزيد عن 12 سنة في إدارة أساطيل التوصيل والمناديب.
+islam@riyadh:~$ cat about_ar.txt
+مشرف عمليات وتشغيل لوجستي بخبرة +12 سنة، وأبني أدوات تداول وأتمتة
+تحوّل البيانات إلى قرارات.
+>_ system_loop
 
-</div>
-📈 What I Build
-<table> <tr> <td width="50%" valign="top"> <h3>🤖 MT5 Indicators & EAs</h3> Signal indicators, gold analysis tools and automated Expert Advisors in MQL5. </td> <td width="50%" valign="top"> <h3>📊 TradingView Indicators</h3> Trend and signal engines in Pine Script v6 with entries, stops and targets. </td> </tr> <tr> <td width="50%" valign="top"> <h3>🧠 Trading Terminals</h3> Multi-agent terminal concepts: scanner, risk sizing, execution and logging. </td> <td width="50%" valign="top"> <h3>⚙️ Business Automation</h3> Google Apps Script web apps, Excel dashboards and ERP workflows. </td> </tr> </table>
-🧰 Tech Stack
+
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0b0b0b','primaryTextColor':'#c5ff4a','primaryBorderColor':'#c5ff4a','lineColor':'#55ffff','fontFamily':'monospace'}}}%%
+flowchart LR
+    A["COLLECT<br/>orders · rider data · market data"] --> B["MEASURE<br/>KPIs · dashboards · indicators"]
+    B --> C["AUTOMATE<br/>Apps Script · Excel · MQL5 · Pine"]
+    C --> D["REVIEW<br/>results · risk · quality"]
+    D --> A
+>_ command_deck
+Command	What it does
+/fleet	Fleet and rider management: daily targets, performance, segmentation
+/reports	Excel and Sheets dashboards, KPI and delivery quality reports
+/mt5	MetaTrader 5 indicators and Expert Advisors in MQL5
+/pine	TradingView indicators and signal engines in Pine Script
+/automate	Google Apps Script web apps and ERP workflows
+
+Export
+
+Copy table
+>_ tech_grid
 <div align="center">
 
 
@@ -40,10 +53,8 @@ By day I'm a Fleet & Operations Supervisor with 12+ years in logistics, managing
 
 
 
-
-
 </div>
-🚀 Tools & Indicators
+>_ signal_grid
 Tool	Platform	Focus
 F-INVEST PRO Gold Edition	MT5	Advanced gold (XAUUSD) indicator
 Gold Analyst	MT5	Buy, sell and exit zones with market analysis
@@ -53,20 +64,32 @@ Multi-agent Terminal	Concept	Scanner, risk sizing, execution, logging
 Export
 
 Copy table
-More projects: AutoStyle · keeta-auto-store · SooqMax
+Repos: AutoStyle · keeta-auto-store · SooqMax
 
-🚚 Day Job
-Fleet & Operations Supervisor in last-mile delivery, working with HungerStation, Keeta, The Chefs, Ninja and Shomoos. Daily targets, rider performance, quality reports, procurement and collections.
+>_ telemetry
 
-📫 Contact
+
+┌──────────────────────────────────────────────────────────┐
+│ ROLE        Fleet & Operations Supervisor                │
+│ SECTOR      Last-mile delivery / parcel networks         │
+│ PLATFORMS   HungerStation · Keeta · The Chefs · Ninja ·  │
+│             Shomoos                                      │
+│ SYSTEMS     Odoo ERP · Microsoft Office · Google Sheets  │
+│ BUILDS      MT5 indicators · Pine Script · Apps Script   │
+│ MARKETS     Crypto · Gold (XAUUSD)                       │
+│ BASE        Riyadh, Saudi Arabia                         │
+└──────────────────────────────────────────────────────────┘
+>_ open_channels
 <div align="center">
-📧 Email	💬 WhatsApp	📞 Phone
-Islam.mersal.88@gmail.com	+966 56 618 6722	+966566186722
+<a href="mailto:Islam.mersal.88@gmail.com"></a>
+<a href="https://wa.me/966566186722"></a>
+<a href="tel:+966566186722"></a>
 
-Export
+<br/><br/>
 
-Copy table
-<br/>
-<sub>⚠️ Trading involves risk. Everything here is for education and tooling, not financial advice.</sub>
 
-</div> <!-- Optional: remove this comment marks later to show GitHub stats once you have more activity. <div align="center"> ![](https://streak-stats.demolab.com/?user=islammersal2&theme=dark&hide_border=true) </div> -->
+
+islam@riyadh:~$ echo "Good operations are measured, tracked, and automated."
+<sub>Trading involves risk. Everything here is for education and tooling, not financial advice.</sub>
+
+</div> <!-- Optional: uncomment later when you have more GitHub activity. <div align="center"> ![](https://streak-stats.demolab.com/?user=islammersal2&theme=dark&hide_border=true&background=060606&ring=C5FF4A&fire=55FFFF&currStreakLabel=C5FF4A) </div> -->
